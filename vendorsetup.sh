@@ -1,1 +1,1 @@
-add_lunch_combo inv_himawl-userdebug
+add_lunch_combo invictrix_himawl-userdebug

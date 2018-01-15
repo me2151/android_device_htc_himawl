@@ -6,7 +6,7 @@ $(call inherit-product, vendor/invictrix/config/cdma.mk)
 
 PRODUCT_GMS_CLIENTID_BASE := android-verizon
 
-PRODUCT_NAME := inv_himawl
+PRODUCT_NAME := invictrix_himawl
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="htc_himawl" \
